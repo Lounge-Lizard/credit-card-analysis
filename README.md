@@ -15,7 +15,7 @@ Este repositorio contiene un **análisis exploratorio de datos (EDA)** aplicado 
   - Frecuencia de compra
 - Visualizar insights accionables para estrategias de negocio.
 
-## 🛠️ Herramientas usadas
+## Herramientas usadas
 
 - Python (EDA en Jupyter/Colab)
 - Power BI (dashboard interactivo)

@@ -36,7 +36,7 @@ README.md                   # Este documento
 
 ## Dashboard final
 
-
+![Dashboard preview](./dashboards/dashboard_final.jpg)
 
 ## Insights clave:
 

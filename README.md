@@ -50,7 +50,7 @@ Representan solo 7% de la cartera. Saldos bajos y límites medios. Buen comporta
 36% en riesgo de abandono, concentrados en cuentas < 1 año y compras bajas.
 
 **Premium:**\
-2.9% de usuarios con alto gasto (~~\$4,300), siempre pago a tiempo, límites altos (~~\$7,500).
+2.9% de usuarios con alto gasto (~\$4,300), siempre pago a tiempo, límites altos (~\$7,500).
 
 ---
 
